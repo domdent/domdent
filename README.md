@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-I'm Dom, I work as a software engineer at Zulu Forest Sciences - primarily working with technologies including:
-- Python
-- Typescript
-- React
-- Go
-- Docker
-- AWS
-- PostgreSQL/PostGIS
-
+I'm Dom, I work as a senior software engineer at [Zulu Ecosystems](https://www.zuluecosystems.com/). 
 
 <!--
 **domdent/domdent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
